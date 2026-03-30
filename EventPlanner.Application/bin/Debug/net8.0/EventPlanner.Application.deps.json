@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EventPlanner.Application/1.0.0": {
+        "dependencies": {
+          "EventPlanner.Domain": "1.0.0"
+        },
+        "runtime": {
+          "EventPlanner.Application.dll": {}
+        }
+      },
+      "EventPlanner.Domain/1.0.0": {
+        "runtime": {
+          "EventPlanner.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EventPlanner.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EventPlanner.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

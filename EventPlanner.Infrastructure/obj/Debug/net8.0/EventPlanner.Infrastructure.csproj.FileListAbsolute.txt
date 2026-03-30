@@ -1,0 +1,17 @@
+D:\startup\EventPlanner.Infrastructure\bin\Debug\net8.0\EventPlanner.Infrastructure.deps.json
+D:\startup\EventPlanner.Infrastructure\bin\Debug\net8.0\EventPlanner.Infrastructure.runtimeconfig.json
+D:\startup\EventPlanner.Infrastructure\bin\Debug\net8.0\EventPlanner.Infrastructure.dll
+D:\startup\EventPlanner.Infrastructure\bin\Debug\net8.0\EventPlanner.Infrastructure.pdb
+D:\startup\EventPlanner.Infrastructure\bin\Debug\net8.0\EventPlanner.Domain.dll
+D:\startup\EventPlanner.Infrastructure\bin\Debug\net8.0\EventPlanner.Domain.pdb
+D:\startup\EventPlanner.Infrastructure\obj\Debug\net8.0\EventPlanner.Infrastructure.csproj.AssemblyReference.cache
+D:\startup\EventPlanner.Infrastructure\obj\Debug\net8.0\EventPlanner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\startup\EventPlanner.Infrastructure\obj\Debug\net8.0\EventPlanner.Infrastructure.AssemblyInfoInputs.cache
+D:\startup\EventPlanner.Infrastructure\obj\Debug\net8.0\EventPlanner.Infrastructure.AssemblyInfo.cs
+D:\startup\EventPlanner.Infrastructure\obj\Debug\net8.0\EventPlanner.Infrastructure.csproj.CoreCompileInputs.cache
+D:\startup\EventPlanner.Infrastructure\obj\Debug\net8.0\EventPla.C96E11D6.Up2Date
+D:\startup\EventPlanner.Infrastructure\obj\Debug\net8.0\EventPlanner.Infrastructure.dll
+D:\startup\EventPlanner.Infrastructure\obj\Debug\net8.0\refint\EventPlanner.Infrastructure.dll
+D:\startup\EventPlanner.Infrastructure\obj\Debug\net8.0\EventPlanner.Infrastructure.pdb
+D:\startup\EventPlanner.Infrastructure\obj\Debug\net8.0\EventPlanner.Infrastructure.genruntimeconfig.cache
+D:\startup\EventPlanner.Infrastructure\obj\Debug\net8.0\ref\EventPlanner.Infrastructure.dll

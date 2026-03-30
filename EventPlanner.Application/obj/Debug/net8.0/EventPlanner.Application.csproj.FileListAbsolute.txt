@@ -1,0 +1,15 @@
+D:\startup\EventPlanner.Application\bin\Debug\net8.0\EventPlanner.Application.deps.json
+D:\startup\EventPlanner.Application\bin\Debug\net8.0\EventPlanner.Application.dll
+D:\startup\EventPlanner.Application\bin\Debug\net8.0\EventPlanner.Application.pdb
+D:\startup\EventPlanner.Application\bin\Debug\net8.0\EventPlanner.Domain.dll
+D:\startup\EventPlanner.Application\bin\Debug\net8.0\EventPlanner.Domain.pdb
+D:\startup\EventPlanner.Application\obj\Debug\net8.0\EventPlanner.Application.csproj.AssemblyReference.cache
+D:\startup\EventPlanner.Application\obj\Debug\net8.0\EventPlanner.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\startup\EventPlanner.Application\obj\Debug\net8.0\EventPlanner.Application.AssemblyInfoInputs.cache
+D:\startup\EventPlanner.Application\obj\Debug\net8.0\EventPlanner.Application.AssemblyInfo.cs
+D:\startup\EventPlanner.Application\obj\Debug\net8.0\EventPlanner.Application.csproj.CoreCompileInputs.cache
+D:\startup\EventPlanner.Application\obj\Debug\net8.0\EventPla.BB7DF842.Up2Date
+D:\startup\EventPlanner.Application\obj\Debug\net8.0\EventPlanner.Application.dll
+D:\startup\EventPlanner.Application\obj\Debug\net8.0\refint\EventPlanner.Application.dll
+D:\startup\EventPlanner.Application\obj\Debug\net8.0\EventPlanner.Application.pdb
+D:\startup\EventPlanner.Application\obj\Debug\net8.0\ref\EventPlanner.Application.dll

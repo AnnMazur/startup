@@ -1,0 +1,11 @@
+D:\startup\EventPlanner.Domain\obj\Debug\net8.0\EventPlanner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\startup\EventPlanner.Domain\obj\Debug\net8.0\EventPlanner.Domain.AssemblyInfoInputs.cache
+D:\startup\EventPlanner.Domain\obj\Debug\net8.0\EventPlanner.Domain.AssemblyInfo.cs
+D:\startup\EventPlanner.Domain\obj\Debug\net8.0\EventPlanner.Domain.csproj.CoreCompileInputs.cache
+D:\startup\EventPlanner.Domain\bin\Debug\net8.0\EventPlanner.Domain.deps.json
+D:\startup\EventPlanner.Domain\bin\Debug\net8.0\EventPlanner.Domain.dll
+D:\startup\EventPlanner.Domain\bin\Debug\net8.0\EventPlanner.Domain.pdb
+D:\startup\EventPlanner.Domain\obj\Debug\net8.0\EventPlanner.Domain.dll
+D:\startup\EventPlanner.Domain\obj\Debug\net8.0\refint\EventPlanner.Domain.dll
+D:\startup\EventPlanner.Domain\obj\Debug\net8.0\EventPlanner.Domain.pdb
+D:\startup\EventPlanner.Domain\obj\Debug\net8.0\ref\EventPlanner.Domain.dll
