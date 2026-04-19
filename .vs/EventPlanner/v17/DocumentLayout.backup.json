@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\startup\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D5CA86CE-95C5-48A5-AEE1-713FA173E129}|EventPlanner.API\\EventPlanner.API.csproj|d:\\startup\\eventplanner.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5CA86CE-95C5-48A5-AEE1-713FA173E129}|EventPlanner.API\\EventPlanner.API.csproj|solutionrelative:eventplanner.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D5CA86CE-95C5-48A5-AEE1-713FA173E129}|EventPlanner.API\\EventPlanner.API.csproj|d:\\startup\\eventplanner.api\\di\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5CA86CE-95C5-48A5-AEE1-713FA173E129}|EventPlanner.API\\EventPlanner.API.csproj|solutionrelative:eventplanner.api\\di\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8B959C4D-E57A-48F3-9935-8A53E96F15E0}|EventPlanner.Infrastructure\\EventPlanner.Infrastructure.csproj|d:\\startup\\eventplanner.infrastructure\\eventplanner.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{8B959C4D-E57A-48F3-9935-8A53E96F15E0}|EventPlanner.Infrastructure\\EventPlanner.Infrastructure.csproj|solutionrelative:eventplanner.infrastructure\\eventplanner.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5CA86CE-95C5-48A5-AEE1-713FA173E129}|EventPlanner.API\\EventPlanner.API.csproj|d:\\startup\\eventplanner.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D5CA86CE-95C5-48A5-AEE1-713FA173E129}|EventPlanner.API\\EventPlanner.API.csproj|solutionrelative:eventplanner.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E606544F-F95B-4DBB-8CD8-50FE0CAA4064}|EventPlanner.Domain\\EventPlanner.Domain.csproj|d:\\startup\\eventplanner.domain\\entities\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -118,7 +118,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 372,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -134,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "D:\\startup\\EventPlanner.API\\DI\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "EventPlanner.API\\DI\\DependencyInjection.cs",
@@ -147,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "EventPlanner.API.http",
               "DocumentMoniker": "D:\\startup\\EventPlanner.API\\EventPlanner.API.http",
               "RelativeDocumentMoniker": "EventPlanner.API\\EventPlanner.API.http",
@@ -160,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\startup\\EventPlanner.API\\Program.cs",
               "RelativeDocumentMoniker": "EventPlanner.API\\Program.cs",
@@ -173,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DbContext.cs",
               "DocumentMoniker": "D:\\startup\\EventPlanner.Infrastructure\\Db\\DbContext.cs",
               "RelativeDocumentMoniker": "EventPlanner.Infrastructure\\Db\\DbContext.cs",
@@ -185,8 +185,25 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\startup\\EventPlanner.API\\appsettings.json",
+              "RelativeDocumentMoniker": "EventPlanner.API\\appsettings.json",
+              "ToolTip": "D:\\startup\\EventPlanner.API\\appsettings.json",
+              "RelativeToolTip": "EventPlanner.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-30T12:52:47.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ApplicationStatus.cs",
               "DocumentMoniker": "D:\\startup\\EventPlanner.Domain\\Enums\\ApplicationStatus.cs",
               "RelativeDocumentMoniker": "EventPlanner.Domain\\Enums\\ApplicationStatus.cs",
@@ -198,12 +215,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "VenueApplication.cs",
               "DocumentMoniker": "D:\\startup\\EventPlanner.Domain\\Entities\\VenueApplication.cs",
               "RelativeDocumentMoniker": "EventPlanner.Domain\\Entities\\VenueApplication.cs",
@@ -216,20 +229,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "EventPlanner.API.csproj",
               "DocumentMoniker": "D:\\startup\\EventPlanner.API\\EventPlanner.API.csproj",
               "RelativeDocumentMoniker": "EventPlanner.API\\EventPlanner.API.csproj",
               "ToolTip": "D:\\startup\\EventPlanner.API\\EventPlanner.API.csproj",
               "RelativeToolTip": "EventPlanner.API\\EventPlanner.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-03-30T12:23:37.491Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "EventPlanner.Infrastructure.csproj",
               "DocumentMoniker": "D:\\startup\\EventPlanner.Infrastructure\\EventPlanner.Infrastructure.csproj",
               "RelativeDocumentMoniker": "EventPlanner.Infrastructure\\EventPlanner.Infrastructure.csproj",
@@ -239,18 +252,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-03-30T12:27:46.514Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\startup\\EventPlanner.API\\appsettings.json",
-              "RelativeDocumentMoniker": "EventPlanner.API\\appsettings.json",
-              "ToolTip": "D:\\startup\\EventPlanner.API\\appsettings.json",
-              "RelativeToolTip": "EventPlanner.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-30T12:52:47.155Z"
             },
             {
               "$type": "Document",

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\startup\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5CA86CE-95C5-48A5-AEE1-713FA173E129}|EventPlanner.API\\EventPlanner.API.csproj|d:\\startup\\eventplanner.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D5CA86CE-95C5-48A5-AEE1-713FA173E129}|EventPlanner.API\\EventPlanner.API.csproj|solutionrelative:eventplanner.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D5CA86CE-95C5-48A5-AEE1-713FA173E129}|EventPlanner.API\\EventPlanner.API.csproj|d:\\startup\\eventplanner.api\\di\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5CA86CE-95C5-48A5-AEE1-713FA173E129}|EventPlanner.API\\EventPlanner.API.csproj|solutionrelative:eventplanner.api\\di\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CA86CE-95C5-48A5-AEE1-713FA173E129}|EventPlanner.API\\EventPlanner.API.csproj|d:\\startup\\eventplanner.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5CA86CE-95C5-48A5-AEE1-713FA173E129}|EventPlanner.API\\EventPlanner.API.csproj|solutionrelative:eventplanner.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B959C4D-E57A-48F3-9935-8A53E96F15E0}|EventPlanner.Infrastructure\\EventPlanner.Infrastructure.csproj|d:\\startup\\eventplanner.infrastructure\\db\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -118,7 +118,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 372,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -134,45 +134,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "D:\\startup\\EventPlanner.API\\DI\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "EventPlanner.API\\DI\\DependencyInjection.cs",
-              "ToolTip": "D:\\startup\\EventPlanner.API\\DI\\DependencyInjection.cs",
-              "RelativeToolTip": "EventPlanner.API\\DI\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T18:52:03.934Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EventPlanner.API.http",
-              "DocumentMoniker": "D:\\startup\\EventPlanner.API\\EventPlanner.API.http",
-              "RelativeDocumentMoniker": "EventPlanner.API\\EventPlanner.API.http",
-              "ToolTip": "D:\\startup\\EventPlanner.API\\EventPlanner.API.http",
-              "RelativeToolTip": "EventPlanner.API\\EventPlanner.API.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2026-03-30T18:51:13.291Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\startup\\EventPlanner.API\\Program.cs",
-              "RelativeDocumentMoniker": "EventPlanner.API\\Program.cs",
-              "ToolTip": "D:\\startup\\EventPlanner.API\\Program.cs",
-              "RelativeToolTip": "EventPlanner.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T12:35:51.294Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "DbContext.cs",
               "DocumentMoniker": "D:\\startup\\EventPlanner.Infrastructure\\Db\\DbContext.cs",
@@ -181,16 +142,11 @@
               "RelativeToolTip": "EventPlanner.Infrastructure\\Db\\DbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T12:50:40.616Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "WhenOpened": "2026-03-30T12:50:40.616Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\startup\\EventPlanner.API\\appsettings.json",
               "RelativeDocumentMoniker": "EventPlanner.API\\appsettings.json",
@@ -203,6 +159,47 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\startup\\EventPlanner.API\\DI\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "EventPlanner.API\\DI\\DependencyInjection.cs",
+              "ToolTip": "D:\\startup\\EventPlanner.API\\DI\\DependencyInjection.cs",
+              "RelativeToolTip": "EventPlanner.API\\DI\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T18:52:03.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\startup\\EventPlanner.API\\Program.cs",
+              "RelativeDocumentMoniker": "EventPlanner.API\\Program.cs",
+              "ToolTip": "D:\\startup\\EventPlanner.API\\Program.cs",
+              "RelativeToolTip": "EventPlanner.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T12:35:51.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventPlanner.API.http",
+              "DocumentMoniker": "D:\\startup\\EventPlanner.API\\EventPlanner.API.http",
+              "RelativeDocumentMoniker": "EventPlanner.API\\EventPlanner.API.http",
+              "ToolTip": "D:\\startup\\EventPlanner.API\\EventPlanner.API.http",
+              "RelativeToolTip": "EventPlanner.API\\EventPlanner.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-03-30T18:51:13.291Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
               "Title": "ApplicationStatus.cs",
               "DocumentMoniker": "D:\\startup\\EventPlanner.Domain\\Enums\\ApplicationStatus.cs",
@@ -211,8 +208,7 @@
               "RelativeToolTip": "EventPlanner.Domain\\Enums\\ApplicationStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T12:49:10.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T12:49:10.257Z"
             },
             {
               "$type": "Document",
@@ -224,8 +220,7 @@
               "RelativeToolTip": "EventPlanner.Domain\\Entities\\VenueApplication.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T12:48:52.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T12:48:52.613Z"
             },
             {
               "$type": "Document",
@@ -237,8 +232,7 @@
               "RelativeToolTip": "EventPlanner.API\\EventPlanner.API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-30T12:23:37.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T12:23:37.491Z"
             },
             {
               "$type": "Document",
@@ -250,8 +244,7 @@
               "RelativeToolTip": "EventPlanner.Infrastructure\\EventPlanner.Infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-30T12:27:46.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T12:27:46.514Z"
             },
             {
               "$type": "Document",
@@ -455,8 +448,7 @@
               "RelativeToolTip": "EventPlanner.Application\\EventPlanner.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-30T12:35:53.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T12:35:53.28Z"
             },
             {
               "$type": "Document",
@@ -468,8 +460,11 @@
               "RelativeToolTip": "EventPlanner.Domain\\EventPlanner.Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-30T12:27:49.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T12:27:49.111Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             }
           ]
         }
