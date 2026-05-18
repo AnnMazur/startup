@@ -22,20 +22,19 @@ export function HeroSection() {
               <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-primary opacity-75" />
               <span className="relative inline-flex h-2 w-2 rounded-full bg-primary" />
             </span>
-            Планируйте праздники легко
+            Есть план? Поможет Фан-Фан!
           </div>
 
           {/* Heading */}
           <h1 className="mt-6 text-4xl font-bold tracking-tight text-foreground sm:text-5xl lg:text-6xl text-balance">
-            Создавайте праздники
-            <span className="block text-primary">как конструктор</span>
+            Планируйте любые мероприятия
+            <span className="block text-primary">от прогулки до свадьбы</span>
           </h1>
 
           {/* Description */}
           <p className="mt-6 text-lg text-muted-foreground lg:text-xl text-pretty">
             Находите идеальные площадки, собирайте команду подрядчиков и
-            планируйте мероприятие шаг за шагом. Свадьбы, дни рождения,
-            корпоративы - всё в одном месте.
+            планируйте мероприятие шаг за шагом. Самые свежие и актуальные места и идеи - здесь!
           </p>
 
           {/* Search */}
@@ -84,7 +83,7 @@ export function HeroSection() {
         <div className="mt-16 grid grid-cols-2 gap-4 sm:grid-cols-4">
           {[
             { value: "500+", label: "Площадок" },
-            { value: "1000+", label: "Мероприятий" },
+            { value: "10+", label: "Мероприятий" },
             { value: "50+", label: "Городов" },
             { value: "4.8", label: "Средний рейтинг" },
           ].map((stat) => (
